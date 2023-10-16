@@ -1,4 +1,4 @@
-# A MELCOR model of the IFMIF-DONES SGS Argon Purification Subsystem
+# Definition and optimization of a MELCOR model of the IFMIF-DONES Argon Purification Subsystem
 
 Supplementary material to the paper. Includes data, plots and additional code.
 
