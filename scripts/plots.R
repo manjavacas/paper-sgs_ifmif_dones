@@ -172,7 +172,7 @@ plot_impurities(cases_c1_to_c12, "./plots/cases_c1_to_c12.png")
 ####################### PRESSURES #######################
 
 # Load data
-pressures <- read_csv("./data/pressures.csv")
+pressures <- read_csv("./data/min_max_pressures.csv")
 
 a_pressures <- pressures %>%
   filter(grepl("^\\(A[1-9]\\)", Scenario))
