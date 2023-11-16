@@ -57,10 +57,10 @@ plot_datasets_facet <- function(dataset_list) {
     plot
 }
 
-plot_datasets_combined <- function(dataset_list, filename) {
+plot_datasets_combined <- function(dataset_list, filename, leg_order) {
     dataset_list <- lapply(seq_along(dataset_list), function(i) {
         dataset <- dataset_list[[i]]
-        dataset$dataset <- names(dataset_list)[i]
+        dataset$dataset <- factor(names(dataset_list)[i], levels = leg_order)
         return(dataset)
     })
 
@@ -79,7 +79,7 @@ plot_datasets_combined <- function(dataset_list, filename) {
     ggsave(filename, plot = p, width = 10, height = 6, dpi = 300, bg = "white")
 }
 
-plot_datasets_combined(A_scenarios, "plots/pressures_A.png")
-plot_datasets_combined(B_scenarios, "plots/pressures_B.png")
-plot_datasets_combined(C_scenarios, "plots/pressures_C.png")
-plot_datasets_combined(D_scenarios, "plots/pressures_D.png")
+plot_datasets_combined(A_scenarios, "plots/pressures_A.png", c("A1", "A4", "A7"))
+plot_datasets_combined(B_scenarios, "plots/pressures_B.png", c("B1", "B2", "B3"))
+plot_datasets_combined(C_scenarios, "plots/pressures_C.png", c("C4", "C8", "C12"))
+plot_datasets_combined(D_scenarios, "plots/pressures_D.png", c("D4", "D8", "D12", "D16"))
