@@ -64,9 +64,6 @@ plot_cases <- function(df, filename) {
     ncol = 3, nrow = 1,
     legend = "top"
   )
-  p <- ggpubr::annotate_figure(p,
-    bottom = textGrob("Scenario", gp = gpar(cex = 0.8))
-  )
 
   ggsave(filename, plot = p, width = 12, height = 4.8, dpi = 400, bg = "white")
 }
@@ -117,7 +114,6 @@ plot_impurities <- function(df, filename) {
       rot = 90,
       vjust = 1, gp = gpar(cex = 0.8)
     ),
-    bottom = textGrob("Scenario", gp = gpar(cex = 0.8))
   )
 
   ggsave(filename, plot = p, width = 10, height = 3, dpi = 400, bg = "white")
@@ -133,7 +129,7 @@ plot_pressures <- function(df, filename) {
     )
   ) +
     geom_boxplot(stat = "identity", fill = "lightgray") +
-    labs(x = "Scenario", y = "Pressure (Pa)") +
+    labs(x = "", y = "Pressure (Pa)") +
     theme_linedraw()
 
   ggsave(filename, plot = p, width = 10, height = 6, dpi = 300, bg = "white")
