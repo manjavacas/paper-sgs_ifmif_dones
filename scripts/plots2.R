@@ -3,10 +3,7 @@
 ##  Definition and optimization of a MELCOR model of the                ##
 ##  IFMIF-DONES Argon Purification Subsystem                            ##
 ##                                                                      ##
-##  Authors: A. Manjavacas                                              ##
-##                                                                      ##
-##  Copyright (c) Antonio Manjavacas, 2023                              ##
-##  Contact: manjavacas@ugr.es                                          ##
+##  Authors: A. Manjavacas, M. A. Vazquez                               ##
 ##                                                                      ##
 ##########################################################################
 
