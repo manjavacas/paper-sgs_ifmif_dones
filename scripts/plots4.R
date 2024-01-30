@@ -10,10 +10,6 @@
 library(ggbreak)
 library(tidyverse)
 
-scientific_10 <- function(x) {
-  parse(text=gsub("e", " %*% 10^", scales::scientific_format()(x)))
-}
-
 df <- read.csv("./data/scenarios_B.csv")
 
 df$Scenario <- factor(df$Scenario)
