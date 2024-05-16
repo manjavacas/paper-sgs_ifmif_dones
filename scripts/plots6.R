@@ -1,3 +1,12 @@
+##########################################################################
+##                                                                      ##
+##  Definition and optimization of a MELCOR model of the                ##
+##  IFMIF-DONES Argon Purification Subsystem                            ##
+##                                                                      ##
+##  Authors: A. Manjavacas, M. A. Vazquez                               ##
+##                                                                      ##
+##########################################################################
+
 library(tidyverse)
 
 df <- read.csv("./data/scenarios_D.csv")
