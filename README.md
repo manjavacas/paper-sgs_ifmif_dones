@@ -24,9 +24,8 @@ Universidad de Granada, IFMIF-DONES España, Centro de Investigaciones Energéti
 
 ## 📝 Citation
 
-```
-@article{...}
-```
+Manjavacas, A., Vázquez-Barroso, M. A., Torregrosa-Martín, C., Maestre, J., & Martín-Fuertes, F. (2024). Definition and Optimization of a MELCOR Model of the IFMIF-DONES Argon Purification Subsystem. Fusion Engineering and Design, DOI: 
+https://doi.org/10.1016/j.fusengdes.2024.114560.
 
 ## 📚 Bibliography
 
