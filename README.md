@@ -8,7 +8,7 @@ Supplementary material to the paper. Includes data, plots and additional code.
 
 The experiments were conducted using [MELCOR](https://www.sandia.gov/MELCOR/).
 
-## 👥 Contributors
+## 👥 Authors
 
 * [Antonio Manjavacas](mailto:manjavacas@ugr.es)
 * [Manuel A. Vázquez-Barroso](mailto:manvazbar@ugr.es)
