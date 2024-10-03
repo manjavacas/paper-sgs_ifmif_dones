@@ -1,20 +1,12 @@
 ![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.fusengdes.2024.114560-blue)
 
-🔗 https://doi.org/10.1016/j.fusengdes.2024.114560
-
 # Definition and optimization of a MELCOR model of the IFMIF-DONES Argon Purification Subsystem
+
+🔗 https://doi.org/10.1016/j.fusengdes.2024.114560
 
 Supplementary material to the paper. Includes data, plots and additional code.
 
 The experiments were conducted using [MELCOR](https://www.sandia.gov/MELCOR/).
-
-## 📖 Abstract
-
-[IFMIF-DONES](https://ifmif-dones.es/) will be an experimental facility designed to irradiate material samples under conditions similar to those expected in future fusion power reactors. As a radiological facility, it requires the precise design of specific safety subsystems to ensure the protection of the public, the plant personnel and the environment. This is the case of the Argon Purification Subsystem (ArPS), which is responsible for ensuring the inertization of those rooms where liquid Li may be present, involving a risk of fire and hazardous releases. In this context, it is important to set Ar purity requirements as design input for the ArPS to ensure this inertization while being technically sound due to the large amounts of volumes involved. To support this design process, a MELCOR simulation model of the IFMIF-DONES ArPS has been developed. Using this model, we perform a parametric study to analyse the performance of this subsystem under different configurations. The goal is to keep the impurity concentrations of the inert rooms stable during a year of operation in order to minimise the risk of Li reactions, while ensuring dynamic confinement and reducing Ar consumption. In addition, the transition between maintenance and operation modes is considered, analysing the effect of different transition periods and injected Ar inventory.
-
-## 🔑 Keywords
-
-*IFMIF-DONES*, *MELCOR*, *Particle accelerators*, *Safety*, *Nuclear fusion*, *Lithium*
 
 ## 👥 Contributors
 
@@ -25,6 +17,14 @@ The experiments were conducted using [MELCOR](https://www.sandia.gov/MELCOR/).
 * [Francisco Martín-Fuertes](mailto:francisco.martin-fuertes@ciemat.es)
 
 Universidad de Granada, IFMIF-DONES España, Centro de Investigaciones Energéticas, Medioambientales y Tecnológicas (CIEMAT).
+
+## 📖 Abstract
+
+[IFMIF-DONES](https://ifmif-dones.es/) will be an experimental facility designed to irradiate material samples under conditions similar to those expected in future fusion power reactors. As a radiological facility, it requires the precise design of specific safety subsystems to ensure the protection of the public, the plant personnel and the environment. This is the case of the Argon Purification Subsystem (ArPS), which is responsible for ensuring the inertization of those rooms where liquid Li may be present, involving a risk of fire and hazardous releases. In this context, it is important to set Ar purity requirements as design input for the ArPS to ensure this inertization while being technically sound due to the large amounts of volumes involved. To support this design process, a MELCOR simulation model of the IFMIF-DONES ArPS has been developed. Using this model, we perform a parametric study to analyse the performance of this subsystem under different configurations. The goal is to keep the impurity concentrations of the inert rooms stable during a year of operation in order to minimise the risk of Li reactions, while ensuring dynamic confinement and reducing Ar consumption. In addition, the transition between maintenance and operation modes is considered, analysing the effect of different transition periods and injected Ar inventory.
+
+## 🔑 Keywords
+
+*IFMIF-DONES*, *MELCOR*, *Particle accelerators*, *Safety*, *Nuclear fusion*, *Lithium*
 
 ## 📝 Citation
 
