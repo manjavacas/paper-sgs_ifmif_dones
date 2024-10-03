@@ -16,7 +16,7 @@ The experiments were conducted using [MELCOR](https://www.sandia.gov/MELCOR/).
 
 *IFMIF-DONES*, *MELCOR*, *Particle accelerators*, *Safety*, *Nuclear fusion*, *Lithium*
 
-## 👥 Contributors
+## 👥 Authors
 
 * [Antonio Manjavacas](mailto:manjavacas@ugr.es)
 * [Manuel A. Vázquez-Barroso](mailto:manvazbar@ugr.es)
