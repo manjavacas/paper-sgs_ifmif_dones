@@ -1,5 +1,7 @@
 ![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.fusengdes.2024.114560-blue)
 
+🔗 https://doi.org/10.1016/j.fusengdes.2024.114560
+
 # Definition and optimization of a MELCOR model of the IFMIF-DONES Argon Purification Subsystem
 
 Supplementary material to the paper. Includes data, plots and additional code.
