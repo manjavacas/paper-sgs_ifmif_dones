@@ -14,7 +14,7 @@ The experiments were conducted using [MELCOR](https://www.sandia.gov/MELCOR/).
 
 ## 🔑 Keywords
 
-*IFMIF-DONES*, *MELCOR*, *Particle accelerators*, *Safety*, *Nuclear fusion*, *Lithium*
+IFMIF-DONES, MELCOR, Particle accelerators, Safety, Nuclear fusion, Lithium
 
 ## 👥 Authors
 
