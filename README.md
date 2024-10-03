@@ -1,3 +1,5 @@
+![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.fusengdes.2024.114560-blue)
+
 # Definition and optimization of a MELCOR model of the IFMIF-DONES Argon Purification Subsystem
 
 Supplementary material to the paper. Includes data, plots and additional code.
@@ -26,16 +28,16 @@ Universidad de Granada, IFMIF-DONES España, Centro de Investigaciones Energéti
 
 ```
 @article{manjavacas2024definition,
-  title={Definition and optimization of a MELCOR model of the IFMIF-DONES Argon Purification Subsystem},
-  author={Manjavacas, Antonio and V{\'a}zquez-Barroso, Manuel Antonio and Torregrosa-Mart{\'\i}n, Claudio and Maestre, Jorge and Mart{\'\i}n-Fuertes, Francisco},
-  journal={Fusion Engineering and Design},
-  volume={205},
-  pages={114560},
-  year={2024},
-  publisher={Elsevier}
+  title={Definition and optimization of a {MELCOR} model of the {IFMIF-DONES} Argon Purification Subsystem},
+  author={Manjavacas Lucas, Antonio and V{\'a}zquez-Barroso, MA and Torregrosa-Mart{\'\i}n, Claudio and Maestre, J and Mart{\'\i}n-Fuertes, Francisco and others},
+  journal = {Fusion Engineering and Design},
+  volume = {205},
+  pages = {114560},
+  year = {2024},
+  issn = {0920-3796},
+  doi={10.1016/j.fusengdes.2024.114560}
 }
 ```
-
 
 ## 📚 Bibliography
 
